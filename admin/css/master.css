@@ -1,0 +1,11 @@
+label{
+    color: red !important;
+}
+
+form{
+    max-width: 350px;
+    margin: 100px auto;
+}
+input , textarea{
+    margin-bottom: 5px ;
+}
